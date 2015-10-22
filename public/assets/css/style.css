@@ -8,6 +8,11 @@
  * Licensed under MIT
 */
 
+.fullscreen-bg__video {
+
+    width: 100%;
+}
+
 body {
 	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
@@ -343,7 +348,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/cover.jpg);
+	background: url(../images/cover.jp);
 	background-color: #222;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
